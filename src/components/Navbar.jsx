@@ -20,7 +20,7 @@ export default function Navbar() {
           className="text-white text-xl font-bold cursor-pointer"
           onClick={() => scrollToSection("Home")}
         >
-          EpiCasa
+          Zest Nest
         </h1>
 
         {/* Mobile Menu Button */}

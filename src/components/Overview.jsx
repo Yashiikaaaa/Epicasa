@@ -8,7 +8,7 @@ export const Overview = ({ contactmodal, setContactModal }) => {
           {/* Title */}
           <div className="w-full text-center mb-19">
             <h2 className="font-subheading font-bold text-4xl md:text-5xl text-black">
-              Why Choose EpiCasa?
+              Why Choose Zest Nest?
             </h2>
           </div>
   
